@@ -12,4 +12,4 @@ Este proyecto consiste en una página web personal creada en HTML donde les pres
 - 26/04/2026: Se creó la página principal en HTML.
 - 26/04/2026: Se agregó lista de gustos personales.
 - 26/04/2026: Se añadió meta profesional.
-- 26/04/2026: Se insertó imagen al proyecto.# Proyecto-Versionamiento-KennethRobles
+- 26/04/2026: Se insertó imagen al proyecto.
